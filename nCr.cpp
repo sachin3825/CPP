@@ -8,7 +8,7 @@ int Factorial(int n)
     {
         fact = fact * i;
     }
-    cout << fact << endl;
+    // cout << fact << endl;
     return fact;
 }
 int nCr(int n, int r)
